@@ -1,0 +1,5 @@
+primeras clases de git
+ Comandos 
+git init = iniciar git  -  iniciar repositorio
+git clone = clonar repositorio 
+git add = añadir archivo al area de preparacion 
