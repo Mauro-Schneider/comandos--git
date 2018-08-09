@@ -5,3 +5,4 @@ git clone = clonar repositorio
 git add = añadir archivo al area de preparacion 
 git commit -m "mensaje del comit" = ejecutar un commit
 git log = ver el historial de commits
+git diff commit_id commit_id (primeros sinco caracteres de los commits a comparar) ver diferencias entre los archivos de los dos commits.
