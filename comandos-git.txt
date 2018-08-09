@@ -4,3 +4,4 @@ git init = iniciar git  -  iniciar repositorio
 git clone = clonar repositorio 
 git add = añadir archivo al area de preparacion 
 git commit -m "mensaje del comit" = ejecutar un commit
+git log = ver el historial de commits
