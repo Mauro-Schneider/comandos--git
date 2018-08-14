@@ -7,4 +7,4 @@ git commit -m "mensaje del comit" = ejecutar un commit
 git log = ver el historial de commits
 git diff commit_id commit_id (primeros sinco caracteres de los commits a comparar) ver diferencias entre los archivos de los dos commits.
 git checkout comit_id = volver a la vercion del commit indicada
-git tag -a  nombre_de_la_etiqueta -m "mensaje explicativo"
+git tag -a  nombre_de_la_etiqueta -m "mensaje explicativo"6bee3
