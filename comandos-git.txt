@@ -10,3 +10,4 @@ git checkout comit_id = volver a la vercion del commit indicada
 git tag -a  nombre_de_la_etiqueta -m "mensaje explicativo"
 git branch nombre_de_la_rama (crear una rama)
 git merge rama (unir rama actual con la rama especificada)
+push
